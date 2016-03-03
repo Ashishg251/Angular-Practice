@@ -1,0 +1,14 @@
+{
+  "name": "Day-9",
+  "version": "1.0.0",
+  "description": "For testing the database connection",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "~3.8.15",
+  },
+  "author": "Ashish Gupta",
+  "license": "ISC"
+}
